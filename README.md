@@ -12,7 +12,7 @@ After coming to the realisation that the world quite _literally_ runs on free(mo
 <h4><i>Disclaimer</i>, I'm largely still learning.</h4> 
 <h4>However, I love learning, I love contributing and I love the thought of moving forward with each contribution to the larger world of software.</h4>
 
-<h2><i>Alright</i>. What's Your Skillset? </h2> 
+<h2><i>Alright</i>. What's Your Skillset? </h2>
 I'll keep this list updated as I become more proficient in things.
 <dl> 
 	<dt>Javascript</dt>
@@ -22,8 +22,9 @@ I'll keep this list updated as I become more proficient in things.
 	<dt>HTML</dt>
 	<dt>CSS</dt>
 </dl>
+
 <h2>Accolades</h2>
-You can mostly ignore this, these are just little reminders to keep me going.
+<img src="https://www.codewars.com/users/IHateToHyphenate/badges/large">
 <dl>
     <dt></dt>
 </dl>
