@@ -1,4 +1,4 @@
-<h1>Hi, I'm <a href="ihatetohyphenate@protonmail.com" title="Contact Me!">IHateToHyphenate</a></h1>
+<h1>Hi, I'm <a href="ihatetohyphenate@protonmail.com" title="Contact Me!">hyphenHate</a></h1>
 <h2>What are you doing here?</h2>
 
 I remember a friend sending me this quote:
